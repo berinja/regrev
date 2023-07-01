@@ -7,4 +7,3 @@ dependencies:
   - ipywidgets
   - spacy
   - cupy
-prefix: /home/users/blasota/anaconda3/envs/regressions
